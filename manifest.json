@@ -1,0 +1,9 @@
+{
+  "name": "Mi Cocina",
+  "short_name": "Mi Cocina",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#f7f7f7",
+  "lang": "es"
+}
